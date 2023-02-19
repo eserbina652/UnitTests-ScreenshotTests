@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a8b902f-b51d-45e1-8e1d-388851c1eff7" name="Changes" comment="all project has been done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ldv1YinbHsxI8duxaGmaZQyGwS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/yevheniia/Webstorm projects/react_test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/yevheniia/WSprojects/react_test/react_test/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/home/yevheniia/WSprojects/react_test/react_test/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Counter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Counter test">
+    <configuration name="Counter test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/components/Counter/Counter.test.jsx" />
+      <test-names>
+        <test-name value="Counter test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getCounterValue (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/store/reducers/CounterReducer.test.js" />
+      <test-names>
+        <test-name value="getCounterValue" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getCounterValue" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/store/reducers/selectors/getCounterValue/getCounterValue.test.js" />
+      <test-names>
+        <test-name value="getCounterValue" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getCounterValue.increment" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/store/reducers/CounterReducer.test.js" />
+      <test-names>
+        <test-name value="getCounterValue" />
+        <test-name value="increment" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getCounterValue.work with filled state" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/store/reducers/selectors/getCounterValue/getCounterValue.test.js" />
+      <test-names>
+        <test-name value="getCounterValue" />
+        <test-name value="work with filled state" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Counter test" />
+        <item itemvalue="Jest.getCounterValue (1)" />
+        <item itemvalue="Jest.getCounterValue.increment" />
+        <item itemvalue="Jest.getCounterValue.work with filled state" />
+        <item itemvalue="Jest.getCounterValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a8b902f-b51d-45e1-8e1d-388851c1eff7" name="Changes" comment="" />
+      <created>1676213559214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676213559214</updated>
+      <workItem from="1676213560864" duration="3863000" />
+      <workItem from="1676281692730" duration="3039000" />
+      <workItem from="1676304852552" duration="144000" />
+      <workItem from="1676305019304" duration="3333000" />
+      <workItem from="1676373910061" duration="5324000" />
+      <workItem from="1676455044792" duration="5694000" />
+      <workItem from="1676563170028" duration="600000" />
+      <workItem from="1676722219594" duration="599000" />
+      <workItem from="1676803990530" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="Counter.test.jsx">
+      <created>1676395708643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676395708643</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all project has been done">
+      <created>1676457426771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676457426771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Counter.test.jsx" />
+    <MESSAGE value="all project has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all project has been done" />
+  </component>
+</project>
